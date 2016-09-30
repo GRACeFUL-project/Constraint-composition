@@ -1,0 +1,6 @@
+aggregator = "max";
+feature = "max";
+pattern = "peak";
+domain_ub = 2;
+domain_lb = 1;
+time_series_length = 10;
